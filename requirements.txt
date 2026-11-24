@@ -1,0 +1,7 @@
+# Everything: all local extractors plus retrieval. Installs PyTorch (large download).
+-r requirements-dev.txt
+docling>=2.0
+unstructured[pdf]>=0.15
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+ollama>=0.3
