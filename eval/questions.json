@@ -1,0 +1,14 @@
+[
+  {"question": "Which subcategory covers legal and regulatory requirements involving AI?", "expect": ["GOVERN 1.1", "legal and regulatory requirements"]},
+  {"question": "Which subcategory evaluates AI system security and resilience?", "expect": ["MEASURE 2.7"]},
+  {"question": "What does the framework require for post-deployment monitoring plans?", "expect": ["MANAGE 4.1"]},
+  {"question": "Which subcategory covers evaluation of fairness and bias?", "expect": ["MEASURE 2.11"]},
+  {"question": "Which subcategory addresses AI risks from third-party entities?", "expect": ["GOVERN 6.1"]},
+  {"question": "Where are the likelihood and magnitude of each identified impact assessed?", "expect": ["MAP 5.1"]},
+  {"question": "How is residual risk defined?", "expect": ["risk remaining after risk treatment"]},
+  {"question": "What does TEVV stand for?", "expect": ["test, evaluation, verification, and validation"]},
+  {"question": "What are the four functions of the AI RMF Core?", "expect": ["four functions"]},
+  {"question": "Which law directed NIST to develop the AI RMF?", "expect": ["National Artificial Intelligence Initiative Act"]},
+  {"question": "What are AI RMF use-case profiles?", "expect": ["use-case profiles are implementations"]},
+  {"question": "What are the characteristics of trustworthy AI systems?", "expect": ["valid and reliable", "secure and resilient"]}
+]
